@@ -1,0 +1,5 @@
+default_timeout: 30
+log_level: "info"
+tools:
+  api_key: "placeholder_goes_here"
+  retry_attempts: 3
